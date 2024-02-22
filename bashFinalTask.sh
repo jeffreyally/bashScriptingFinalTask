@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-# Udemy course can be found here: https://www.udemy.com/course/linux-shell-scripting-projects/?couponCode=ST9MT22024
+# Udemy course can be found here: https://www.udemy.com/course/linux-shell-scripting-projects
 # The course had the learner download vagrant and spin up virtual machines with CentOS 7 as the OS
 # The goal of the final project for the course was to create a bash script that allowed a user to execute one or multiple
 # commands on remote servers without having to manually SSH into each one individually.
